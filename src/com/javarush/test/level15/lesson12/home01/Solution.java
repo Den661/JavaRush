@@ -30,10 +30,7 @@ public class Solution {
             }
             catch (Exception e)
             {
-                try
-                {
-                  
-                }
+
             }
 
         }
